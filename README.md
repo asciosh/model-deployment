@@ -2,4 +2,4 @@
 
 This is a ML deployment project where I am deploying my Email Spam Classifier model into live production. I conducted a workshop to explain the steps of how I have deployed this model, please like, share and subscribe the video. 
 
-Live URL: 
+Live URL: https://model-deployment-q4ft.onrender.com/
